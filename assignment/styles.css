@@ -1,0 +1,32 @@
+h1 {
+    font-style:initial;
+    text-align:center;
+}
+
+.photo {
+    height: 50%;
+    display: block;
+    margin: auto;
+}
+
+p {
+    font-family: Tahoma, Verdana, sans-serif;
+    background-color:deepskyblue;
+    text-align: center;
+}
+
+.logo {
+    width: 200px;
+}
+
+li{
+    color:dodgerblue;
+}
+
+.divStyle {
+    display: flexbox;
+    padding: 20px;
+    margin-top: 0%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
